@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on KFC的博客</title>
+    <link>http://tomvictory.github.io/posts/</link>
+    <description>Recent content in Posts on KFC的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 08 Dec 2019 15:20:39 +0800</lastBuildDate>
+    <language>zh-Hans</language>
+    <lastBuildDate>Thu, 05 Dec 2019 21:34:12 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tomvictory.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Sun, 08 Dec 2019 15:20:39 +0800</pubDate>
+      <title>如何用 hugo 搭建个人博客</title>
+      <link>http://tomvictory.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Thu, 05 Dec 2019 21:34:12 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <guid>http://tomvictory.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>第一步 下载安装并配置Hugo  下载:在 Hugo Releases中下载压缩包，选择你的系统类型对应的那一个 安装:将压缩包解压到 D:\Software\hugo 里 配置:把 D:\Software\hugo 加到 PATH 中 重启终端，在命令行运行 hugo version 查看版本  第二步 快速搭建博客  进入hugo官网 ，点击 Quick Start 快速开始 从 step2 开始抄写代码并运行，直到step7（注意：部分step可能有多个命令，一定要全部执行） 得到一个public目录，这就是我们的博客站点 运行hugo server -D 可以预览草稿，运行hugo server可以预览非草稿  </description>
+    </item>
+    
+    <item>
+      <title>开博大吉</title>
+      <link>http://tomvictory.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <pubDate>Thu, 05 Dec 2019 19:05:31 +0800</pubDate>
+      
+      <guid>http://tomvictory.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+      <description>大家好啊 我的博客开通了，希望我能写出好文章给大家看</description>
     </item>
     
   </channel>
